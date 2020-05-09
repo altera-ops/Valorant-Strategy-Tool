@@ -18,6 +18,9 @@ We want to develop a tool with the VALORANT community to help players create str
  - Receive confirmation on VALORANT anti-cheat compliance before proceeding. 
  - Release non-overlay version for early developers and beta testers.
 
+## Contact
+Feel free to reach us at [request.altera@gmail.com](request.altera@gmail.com). No spam, please! 
+
 License
 ----
 
