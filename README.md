@@ -13,7 +13,7 @@ We want to develop a tool with the VALORANT community to help players create str
   - Authenticate with Discord and collaborate in real-time.
 
 
-## Todos
+## Todos | [Trello](https://trello.com/b/oKqbGkQ6/valorant-tool-roadmap)
 
  - Receive confirmation on VALORANT anti-cheat compliance before proceeding. 
  - Release non-overlay version for early developers and beta testers.
