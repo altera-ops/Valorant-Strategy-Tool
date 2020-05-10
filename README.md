@@ -24,5 +24,3 @@ Feel free to reach us at [request.altera@gmail.com](request.altera@gmail.com) wi
 License
 ----
 
-MIT
-
